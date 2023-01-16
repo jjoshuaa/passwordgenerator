@@ -1,5 +1,11 @@
-#PASSWORD GENERATOR LOL
+# PASSWORD GENERATOR LOL
+## Acc was looking a little too dry so I've decided to start cheffin up again 👨🏿‍🍳 , in order to practice my python 
+<p align="center"><img src="https://raw.githubusercontent.com/jjoshuaa/passwordgenerator/main/democlip.mov" width="1000"></p
 
-##Acc looking too dry so I've started cheffin up again 👨🏿‍🍳 to practice my python while in the process of learning it 
+# LOCAL RUN STATUS
+Operational , it will work if you download the source and run it locally on your machine
 
-A Simple password generator that asks the user to input the number of letters symbols and <br> numbers needed in the password and then shuffles it up into an intricate combination.
+## Usage
+just run it lol
+
+
